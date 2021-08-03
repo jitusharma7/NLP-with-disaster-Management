@@ -10,7 +10,6 @@ The aim of the project is to build a model that can predict that whether a tweet
   * [Text_Preprocessing](#Text_Preprocessing)
   * [Model_Building](#Model_Building)
   * [Result](#Result)
-  * [Business_Recommendation](#Business_Recommendation)
   * [Credit](#Credit)
   
 ## Overview
@@ -58,10 +57,7 @@ Each sample in the train and test set has the following information:
   
   <img src="/loss.PNG" width="300">
   
-## Business_Recommendation
-* Firm should focus on 3 important features 'Percent difference CTC', 'Duration to accept the offer'& 'Age'
-* Firm should introduce new offering/schemes based on these 3 features combination so that attrition rate can reduce.
 
 ## Credit
-[dare2Compete](https://https://dare2compete.com/) - This project has been done on this competitive platform.
+[kaggle](https://www.kaggle.com/) - This project has been done on this competitive platform.
 

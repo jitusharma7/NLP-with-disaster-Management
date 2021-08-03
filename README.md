@@ -1,6 +1,5 @@
 # NLP-with-disaster-Management
 
-# Talent-Acquisition_Attrition-Rate
 The aim of the project is to build a model that can predict that whether a tweet is related to disaster or not based on tweet content.
 ## Table of Content
   * [Overview](#Overview)

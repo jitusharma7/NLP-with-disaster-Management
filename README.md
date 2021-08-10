@@ -48,7 +48,7 @@ Each sample in the train and test set has the following information:
 * model compile with binary cross entropy,adam optimizer,accuracy metrics
 * Analyzed result with 5 different model, model result is as follows:-
 
-<img src="/NLP_Model.PNG" width="400">
+<img src="/NLP_Model.PNG" width="600">
 
 
 ## Result

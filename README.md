@@ -32,7 +32,7 @@ Each sample in the train and test set has the following information:
 ## Exploratory_Data_Analysis
 * Comment length distribution
 
-  <img src="/comment%20length.PNG" width="300">
+  <img src="/comment%20length.png" width="300">
 
 
 

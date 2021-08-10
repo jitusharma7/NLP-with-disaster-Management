@@ -46,6 +46,10 @@ Each sample in the train and test set has the following information:
 ## Model_Building
 * LSTM Deep learning model built
 * model compile with binary cross entropy,adam optimizer,accuracy metrics
+* Analyzed result with 5 different model, model result is as follows:-
+
+<img src="/NLP_Model.PNG" width="400">
+
 
 ## Result
 * LSTM model with 84.97%% accuracy

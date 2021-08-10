@@ -52,13 +52,15 @@ Each sample in the train and test set has the following information:
 
 
 ## Result
-* LSTM model with 84.97%% accuracy
+* Deep learning with Bert , perform better wuth highest accuracy - 84%. 
+* Among various machine learning model , SVM classifer with word2vec recall value is highest.
+* Recall is one of the main parameters to evaluate model .
 
 
-  <img src="/accuracy.PNG" width="300">
+  <img src="/accuracy.png" width="300">
   
   
-  <img src="/loss.PNG" width="300">
+  <img src="/loss.png" width="300">
   
 
 ## Credit
